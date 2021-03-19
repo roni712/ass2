@@ -1,6 +1,5 @@
 # ES6 Order Bot
 
-I got the user interface for the web from a student of mine, Pat Wilken.
 
 To run:
 
